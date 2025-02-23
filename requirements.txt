@@ -1,6 +1,6 @@
 selenium==4.17.2
 beautifulsoup4==4.12.2
 
-#🔄 How to Install Libraries from requirements.txt:
+# 🔄 How to Install Libraries from requirements.txt:
 Once you've uploaded the file, anyone (including you) can install the necessary libraries using this command:
 pip install -r requirements.txt
